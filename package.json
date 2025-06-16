@@ -10,7 +10,16 @@
     "js-homework2_prt1": "node jsBasics/task1.js",
     "js-homework2_prt2": "node jsBasics/task2.js",
     "js-homework2_prt3": "node jsBasics/task3.js",
-    "js-homework2_prt4": "node jsBasics/task4.js"
+    "js-homework2_prt4": "node jsBasics/task4.js",
+<<<<<<<<< Temporary merge branch 1
+    "js-homework3_prt1": "node jsFunctions/task1.js",
+    "js-homework3_prt2": "node jsFunctions/task2.js",
+    "js-homework3_prt3": "node jsFunctions/task3.js"
+=========
+    "js-homework3_prt1": "node jsConditionsAndLoops/task1.js",
+    "js-homework3_prt2": "node jsConditionsAndLoops/task2.js",
+    "js-homework3_prt3": "node jsConditionsAndLoops/task3.js"
+>>>>>>>>> Temporary merge branch 2
   },
   "repository": {
     "type": "git",
