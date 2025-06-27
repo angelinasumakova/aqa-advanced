@@ -16,7 +16,10 @@
     "js-homework3_prt3": "node jsConditionsAndLoops/task3.js",
     "js-homework4_prt1": "node jsFunctions/task1.js",
     "js-homework4_prt2": "node jsFunctions/task2.js",
-    "js-homework4_prt3": "node jsFunctions/task3.js"
+    "js-homework4_prt3": "node jsFunctions/task3.js",
+    "js-homework5_prt1": "node jsCallbacks/task1.js",
+    "js-homework5_prt2": "node jsCallbacks/task2.js",
+    "js-homework5_prt3": "node jsCallbacks/task3.js"
   },
   "repository": {
     "type": "git",
