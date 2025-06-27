@@ -19,7 +19,13 @@
     "js-homework4_prt3": "node jsFunctions/task3.js",
     "js-homework5_prt1": "node jsCallbacks/task1.js",
     "js-homework5_prt2": "node jsCallbacks/task2.js",
-    "js-homework5_prt3": "node jsCallbacks/task3.js"
+    "js-homework5_prt3": "node jsCallbacks/task3.js",
+    "js-homework6_prt1": "node jsArrays/task1.js",
+    "js-homework6_prt2": "node jsArrays/task2.js",
+    "js-homework6_prt3": "node jsArrays/task3.js",
+    "js-homework6_prt4": "node jsArrays/task4.js",
+    "js-homework6_prt5": "node jsArrays/task5.js",
+    "js-homework6_prt6": "node jsArrays/task6.js"
   },
   "repository": {
     "type": "git",
