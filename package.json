@@ -30,7 +30,8 @@
     "js-homework7_prt2": "node jsObjects/task2.js",
     "js-homework7_prt3": "node jsObjects/task3.js",
     "js-homework7_prt4": "node jsObjects/task4.js",
-    "js-homework7_prt5": "node jsObjects/task5.js"
+    "js-homework7_prt5": "node jsObjects/task5.js",
+    "js-homework8_prt1": "node jsOOP/task1.js"
   },
   "repository": {
     "type": "git",
