@@ -31,7 +31,12 @@
     "js-homework7_prt3": "node jsObjects/task3.js",
     "js-homework7_prt4": "node jsObjects/task4.js",
     "js-homework7_prt5": "node jsObjects/task5.js",
-    "js-homework8_prt1": "node jsOOP/task1.js"
+    "js-homework8_prt1": "node jsOOP/task1.js",
+    "js-homework9_prt1": "node jsPromises/task1.js",
+    "js-homework9_prt2_1": "node jsPromises/task2_1.js",
+    "js-homework9_prt2_2": "node jsPromises/task2_2.js",
+    "js-homework9_prt3_1": "node jsPromises/task3_1.js",
+    "js-homework9_prt3_2": "node jsPromises/task3_2.js"
   },
   "repository": {
     "type": "git",
